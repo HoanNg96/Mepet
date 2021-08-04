@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\PROJECT_BANHANG"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "admin2"
+	}
+}

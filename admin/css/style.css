@@ -1,0 +1,32 @@
+.wrapper-products-panel .wrapper-header .breadcrumb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.weight-add, .size-add, .color-add {
+    display: none;
+}
+input[type=number] {
+    -moz-appearance: textfield;
+}
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.bg-gradient-primary {
+    background-color: tomato;
+    background-image: linear-gradient( 180deg ,tomato 10%,tomato 100%);
+    background-size: cover;
+}
+.sidebar-dark .sidebar-brand {
+    /* color: #fff; */
+    color: tomato;
+    background-color: white;
+}
+.modpd-img {
+    position: relative;
+}
+.modpd-img img {
+    width: 100%;
+    border: 1px solid black;
+}
